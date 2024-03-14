@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-tps",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Description for rust-tps",
   "main": "src/index.js",
   "scripts": {
