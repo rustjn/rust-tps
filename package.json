@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-tps",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Description for rust-tps",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,12 @@
     "@rustjn/rust-public-chain": "^1.0.0",
     "@rustjn/rust-fakeai": "^1.0.0",
     "@rustjn/rust-nft": "^1.0.0",
-    "@rustjn/rust-privacy": "^1.0.0"
+    "@rustjn/rust-privacy": "^1.0.0",
+    "@rustjn/rust-cex": "^1.0.0",
+    "@rustjn/rust-dex": "^1.0.0",
+    "@rustjn/rust-rwa": "^1.0.0",
+    "@rustjn/rust-ai": "^1.0.0",
+    "@rustjn/rust-lint": "^1.0.0",
+    "@rustjn/rust-exchange": "^1.0.0"
   }
 }
